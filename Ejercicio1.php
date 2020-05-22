@@ -25,6 +25,6 @@
 	<input type="text" name="res" id="res" class="campo" readonly="readonly">
 	<br>
 	<br>
-	<h3><a href="index.html">Volver</a></h3>
+	<h3><a href="index.php">Volver</a></h3>
 </body>
 </html>
