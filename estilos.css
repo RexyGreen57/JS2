@@ -1,0 +1,18 @@
+*{
+	background: #581F18;
+	font:bold Times New Roman;
+
+}
+a{
+	color: black;
+}
+
+.boton{
+	background: white;
+	border:2px black solid;
+}
+
+.campo{
+	background: white;
+	border:2px black solid;
+}
